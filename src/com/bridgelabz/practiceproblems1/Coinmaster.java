@@ -10,7 +10,7 @@ public class Coinmaster { public static void main(String[] args) {
         if (rand >= 0 && rand < 0.5) {
             tailcount++;
 
-        } else {git
+        } else {
             headcount++;
         }
     }
